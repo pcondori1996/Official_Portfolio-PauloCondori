@@ -9,19 +9,21 @@ import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 
+import './App.scss'
+
 
 const App = () => {
   return (
     <>
-    <Header />
-    <Nav />
-    <About />
-    <Experience />
-    <Service />
-    <Portfolio />
-    <Testimonials />
-    <Contact />
-    <Footer />
+      <Header />
+      <Nav />
+      <About />
+      <Experience />
+      <Service />
+      <Portfolio />
+      <Testimonials />
+      <Contact />
+      <Footer />
     </>
   )
 };

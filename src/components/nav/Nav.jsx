@@ -1,9 +1,11 @@
 import React from 'react'
-import './nav.css'
+import './nav.scss'
 
 const Nav = () => {
   return (
-    <div>Nav</div>
+    <nav>
+      <a href="#"></a>
+    </nav>
   )
 }
 
