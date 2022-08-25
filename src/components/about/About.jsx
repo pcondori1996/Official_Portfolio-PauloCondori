@@ -44,8 +44,11 @@ const About = () => {
           </div>
 
             <p>
-          text older
-        </p>
+          Hi, I'm Paulo Condori Pinedo<br></br>
+          I'm a full-stack developer located in Atlanta, Georgia.
+          I recently graduated from Georgia Institute of Technology Full stack developer bootcamp.
+          I'm excited to take to take on my the next challenage in my tech career.
+                 </p>
 
 
         <a href='#contact' className='btn btn-primary'>Lets Talk</a>
