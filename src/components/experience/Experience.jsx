@@ -84,12 +84,17 @@ const Experience = () => {
 
             <article className='experience_details'>
               <FaCheckCircle className='expIcons'/>
-              <h4>API, Rest, JSON, AJAX</h4>
+              <h4>Restful API, JSON, AJAX</h4>
             </article>
 
             <article className='experience_details'>
               <FaCheckCircle className='expIcons'/>
               <h4>Unit Testing, Jest, Linting</h4>
+            </article>
+
+            <article className='experience_details'>
+              <FaCheckCircle className='expIcons'/>
+              <h4>Model-View-Controller</h4>
             </article>
           </div>
         </div>
