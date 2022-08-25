@@ -67,16 +67,43 @@ header {
     header {
         height: 68vh;
     }
+    .header-socials {
+        flex-direction: row;
+        justify-content: center;
+        gap: 0.5rem;
+        position: relative;
+        bottom: 0rem;
+        margin-top: 1rem;
+
+    }
+
+    .scroll-down {
+        display: none;
+
+    }
 }
 
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 73vh;
     }
 
-    .header-socials,
+    .header-socials {
+        flex-direction: row;
+        justify-content: center;
+        gap: 0.5rem;
+        position: relative;
+        bottom: 0rem;
+        margin-top: 1rem;
+    }
+
+
     .scroll-down {
         display: none;
 
+    }
+
+    .mainPic {
+        display: none;
     }
 }

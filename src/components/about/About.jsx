@@ -43,7 +43,7 @@ const About = () => {
 
           </div>
 
-            <p>
+            <p className='aboutText'>
           Hi, I'm Paulo Condori Pinedo<br></br>
           I'm a full-stack developer located in Atlanta, Georgia.
           I recently graduated from Georgia Institute of Technology Full stack developer bootcamp.
