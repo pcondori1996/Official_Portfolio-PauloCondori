@@ -18,13 +18,13 @@ const data = [
     image: project2,
     title: 'Wookies Gold',
     github: 'https://github.com/pcondori1996/WookiesGold',
-    demo: ''
+    demo: 'https://glacial-tor-15581.herokuapp.com/'
   },
   {
     id: 3,
     image: project3,
     title: 'Superhero (in progress)',
-    github: '',
+    github: 'https://github.com/bentonwashington/superhero-request-service',
     demo: ''
   }
 ];

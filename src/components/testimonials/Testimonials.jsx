@@ -38,10 +38,8 @@ const data = [
   {
     pic: hunter,
     name: 'Huner Padgett',
-    Testimonial: 'Ssssaaa Dude'
-  }
-
-]
+    Testimonial: 'Working with Paulo is always a pleasure. He is a consistent hard worker and a great collaborator. I would recommend Paulo to any team because he is adaptable, a quick learner, and a fantastic listener!'
+  }]
 
 const Testimonals = () => {
   return (
