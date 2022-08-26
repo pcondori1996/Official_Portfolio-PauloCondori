@@ -63,7 +63,10 @@ h1 {
 }
 
 section {
-  margin-top: 8 rem;
+  margin-top: 10 rem;
+  display: flex;
+  position: relative;
+  flex-direction: column;
   // height: 100vh;
 }
 

@@ -81,6 +81,10 @@ header {
         display: none;
 
     }
+
+    .Imageholder .mainPic {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -107,7 +111,7 @@ header {
         display: none;
     }
 
-    .Imageholder {
+    .Imageholder .mainPic {
         display: none;
     }
 }

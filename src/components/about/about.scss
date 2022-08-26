@@ -28,6 +28,10 @@
 
 }
 
+#actualTopimg {
+    height: 100%;
+}
+
 .about_cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -83,6 +87,8 @@
        .about_content p {
         margin: 1rem 0 1.5rem;
        }
+
+       
   
 }
 
