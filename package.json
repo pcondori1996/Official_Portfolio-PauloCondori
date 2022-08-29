@@ -1,7 +1,8 @@
 {
-  "homepage": "http://pcondori1996.github.io/Official_Portfolio-PauloCondori",
+ 
   "name": "classcontent",
   "version": "0.1.0",
+  "homepage": "http://pcondori1996.github.io/Official_Portfolio-PauloCondori",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
@@ -21,7 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
