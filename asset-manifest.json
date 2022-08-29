@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Official_Portfolio-PauloCondori/static/css/main.37376d4c.css",
+    "main.js": "/Official_Portfolio-PauloCondori/static/js/main.df11e5a8.js",
+    "static/media/Wookiee-Warriors.png": "/Official_Portfolio-PauloCondori/static/media/Wookiee-Warriors.a3c8a5a148d6222b10e6.png",
+    "static/media/Project1pic.jpg": "/Official_Portfolio-PauloCondori/static/media/Project1pic.c2bb90fc530fdd248c20.jpg",
+    "static/media/mainprofile.jpg": "/Official_Portfolio-PauloCondori/static/media/mainprofile.dc9d7d913ee391a82e65.jpg",
+    "static/media/PauloCV.PDF": "/Official_Portfolio-PauloCondori/static/media/PauloCV.35cf6f5313aee0acacbd.PDF",
+    "static/media/hunter.jpg": "/Official_Portfolio-PauloCondori/static/media/hunter.45883c5ce505c64a5ed2.jpg",
+    "static/media/teagrin.jpg": "/Official_Portfolio-PauloCondori/static/media/teagrin.0fd543787387152cb7b1.jpg",
+    "static/media/nashbi.jpg": "/Official_Portfolio-PauloCondori/static/media/nashbi.063a022ce8eb5c3d14fc.jpg",
+    "static/media/cat.jpg": "/Official_Portfolio-PauloCondori/static/media/cat.c659280ccc8d19c294f8.jpg",
+    "static/media/aboutMepic.jpg": "/Official_Portfolio-PauloCondori/static/media/aboutMepic.1f0ca5222b42246363f1.jpg",
+    "static/media/samaritan.jpg": "/Official_Portfolio-PauloCondori/static/media/samaritan.862b913cd617c0b8d67e.jpg",
+    "index.html": "/Official_Portfolio-PauloCondori/index.html",
+    "main.37376d4c.css.map": "/Official_Portfolio-PauloCondori/static/css/main.37376d4c.css.map",
+    "main.df11e5a8.js.map": "/Official_Portfolio-PauloCondori/static/js/main.df11e5a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37376d4c.css",
+    "static/js/main.df11e5a8.js"
+  ]
+}
