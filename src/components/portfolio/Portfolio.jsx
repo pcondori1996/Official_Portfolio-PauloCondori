@@ -10,8 +10,8 @@ const data = [
     id: 1,
     image: project1,
     title: 'Touch Grass',
-    github: 'https://ashley1thompson.github.io/touch-grass-app-national-park-finder/',
-    demo: 'https://github.com/Ashley1Thompson/touch-grass-app-national-park-finder'
+    github: 'https://github.com/Ashley1Thompson/touch-grass-app-national-park-finder',
+    demo: 'https://ashley1thompson.github.io/touch-grass-app-national-park-finder/'
   },
   {
     id: 2,
@@ -24,8 +24,8 @@ const data = [
     id: 3,
     image: project3,
     title: 'Superhero (in progress)',
-    github: 'https://github.com/bentonwashington/superhero-request-service',
-    demo: ''
+    github: 'https://github.com/bentonwashington/Lamb',
+    demo: 'https://dev8057.d2bcqfip8p0c5j.amplifyapp.com/'
   }
 ];
 
