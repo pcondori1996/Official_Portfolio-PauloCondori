@@ -23,7 +23,7 @@ const data = [
   {
     id: 3,
     image: project3,
-    title: 'Superhero (in progress)',
+    title: 'Hero.io',
     github: 'https://github.com/bentonwashington/Lamb',
     demo: 'https://dev8057.d2bcqfip8p0c5j.amplifyapp.com/'
   }
