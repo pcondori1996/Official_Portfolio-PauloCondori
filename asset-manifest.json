@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Official_Portfolio-PauloCondori/static/css/main.37376d4c.css",
-    "main.js": "/Official_Portfolio-PauloCondori/static/js/main.df11e5a8.js",
+    "main.js": "/Official_Portfolio-PauloCondori/static/js/main.bacba913.js",
     "static/media/Wookiee-Warriors.png": "/Official_Portfolio-PauloCondori/static/media/Wookiee-Warriors.a3c8a5a148d6222b10e6.png",
     "static/media/Project1pic.jpg": "/Official_Portfolio-PauloCondori/static/media/Project1pic.c2bb90fc530fdd248c20.jpg",
     "static/media/mainprofile.jpg": "/Official_Portfolio-PauloCondori/static/media/mainprofile.dc9d7d913ee391a82e65.jpg",
@@ -14,10 +14,10 @@
     "static/media/samaritan.jpg": "/Official_Portfolio-PauloCondori/static/media/samaritan.862b913cd617c0b8d67e.jpg",
     "index.html": "/Official_Portfolio-PauloCondori/index.html",
     "main.37376d4c.css.map": "/Official_Portfolio-PauloCondori/static/css/main.37376d4c.css.map",
-    "main.df11e5a8.js.map": "/Official_Portfolio-PauloCondori/static/js/main.df11e5a8.js.map"
+    "main.bacba913.js.map": "/Official_Portfolio-PauloCondori/static/js/main.bacba913.js.map"
   },
   "entrypoints": [
     "static/css/main.37376d4c.css",
-    "static/js/main.df11e5a8.js"
+    "static/js/main.bacba913.js"
   ]
 }
