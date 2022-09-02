@@ -18,41 +18,29 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit amet, consecm repellat animi, sed voluptate optio.
+              <p>User flow charts, diagrams
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum ndaeanimi, sed voluptate optio.
+              <p>Wireframes
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem sentium, necessiimi, sed voluptate optio.
+              <p>Content strategy
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum doloue deserui, sed voluptate optio.
+              <p>Brand and design system development
               </p>
             </li>
 
-            <li>
-              <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolortemporibus praeriam repellat animi, sed voluptate optio.
-              </p>
-            </li>
-
-
-            <li>
-              <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor siibus prais aperiam repellat animi, sed voluptate optio.
-              </p>
-            </li>
-
+      
           </ul>
 
         </article>
@@ -65,87 +53,77 @@ const services = () => {
           <ul className="service_list">
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit amet,  optio.
+              <p>Custom Web Applications
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit amet, aperiam repellat animi, sed voluptate optio.
+              <p>Web Support and Maintenance
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit aibus praesentium, necessit</p>  
+              <p>Front-End Web Development</p>  
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sitbus praesentium, necessitat animi, sed voluptate optio.
+              <p>Back-End Web Development
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit amet, coaperiam repellat animi, sed voluptate optio.
+              <p>Full-stack Web Development
               </p>
             </li>
 
 
-            <li>
-              <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sitmporiaperiam repellat animi, sed voluptate optio.
-              </p>
-            </li>
-
+          
           </ul>
 
         </article>
 
         <article className='service'>
           <div className="service_head">
-            <h3>Content Creation</h3>
+            <h3>Consulting</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sibus prae repellat animi, sed voluptate optio.
+              <p>Create a great first impression of your company or clients who search online for information about your business, or if it applies, to your online store           </p>
+            </li>
+
+            <li>
+              <BsBookmarkStar className='service_listIcons' />
+              <p>Generate revenue by attracting clients and prospects with a robust online presence strategy
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor nrepellat animi, sed voluptate optio.
+              <p>Promote an online image to clients and prospects that is in line with the branding of the company
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit amet,  optio.
+              <p>Deliver marketing initiatives that boost your lines of communication with the public
               </p>
             </li>
 
             <li>
               <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit ame optio.
-              </p>
-            </li>
-
-            <li>
-              <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor, repudiandae temporoptio.
+              <p>
+                Ensure clients are heard and happy with finish product
               </p>
             </li>
 
 
-            <li>
-              <BsBookmarkStar className='service_listIcons' />
-              <p>Lorem ipsum dolor sit ametreuptate optio.
-              </p>
-            </li>
-
+    
           </ul>
 
         </article>
