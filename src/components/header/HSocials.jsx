@@ -2,6 +2,7 @@ import React from 'react'
 import {AiFillGithub} from 'react-icons/ai'
 import {AiFillLinkedin} from 'react-icons/ai';
 import {BsFillDisplayFill} from 'react-icons/bs'
+import './header.scss'
 
 const HSocials = () => {
   return (
