@@ -1,4 +1,4 @@
-header {
+    header {
     height: 100vh;
     padding-top: 7rem;
     overflow: hidden;
@@ -68,12 +68,8 @@ header {
         height: 68vh;
     }
     .header-socials {
-        flex-direction: row;
-        justify-content: center;
-        gap: 0.5rem;
-        position: relative;
-        bottom: 0rem;
-        margin-top: 1rem;
+        display: none;
+
 
     }
 
@@ -93,12 +89,8 @@ header {
     }
 
     .header-socials {
-        flex-direction: row;
-        justify-content: center;
-        gap: 0.5rem;
-        position: relative;
-        bottom: 0rem;
-        margin-top: 1rem;
+        display: none;
+
     }
 
 
