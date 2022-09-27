@@ -144,3 +144,57 @@ img {
     margin-bottom: 2rem;
   }
 }
+
+
+
+
+
+
+
+
+// Copied section of header.scss 
+
+@media screen and (max-width: 900px) {
+  header {
+      height: 68vh;
+  }
+  .header-socials {
+      display: none;
+
+
+  }
+
+  .scroll-down {
+      display: none;
+
+  }
+
+  .Imageholder .mainPic {
+      display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header {
+      height: 73vh;
+  }
+
+  .header-socials {
+      display: none;
+
+  }
+
+
+  .scroll-down {
+      display: none;
+
+  }
+
+  .mainPic {
+      display: none;
+  }
+
+  .Imageholder .mainPic {
+      display: none;
+  }
+}
